@@ -2,6 +2,9 @@
 
 This project is a clone of the home page of an abstract website. The goal is to recreate the design and functionality of the original website for learning and practice purposes.
 
+![image](https://github.com/pavanreddy565/abstract_home_page/assets/118699787/8ed1516a-92d4-4dc9-8dfa-2e75099e9a22)
+
+
 ## Features
 
 - **Replicated Design:** The project faithfully replicates the design and layout of the original website's home page.
